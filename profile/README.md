@@ -54,10 +54,10 @@ Empowered group of community members that resonate with the Code & Coffee missio
 - Former AVs
 
 ### 3. Verified Members
-Pre-req: You made it to the discord and attended an in-person event. 
+Pre-req: For distinguished, you made it to the discord and attended an in-person event. 
 The majority of people will be here. You will receive the same respect as any person within this community. We do encourage volunteering.
-- Senior Community Member
-- Community Member
+- Distinguished Community Member
+- Verified Community Member
 - NEW Community Member
 
 ### 4. New folks
