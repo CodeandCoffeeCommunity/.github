@@ -28,15 +28,15 @@ Our goal for this section is to communicate who we are as a community and those 
 - We are friendly to all(new/old) developers and are willing to lend a hand/ear when available. 
 
 ## Identity & Boundaries
-This sounds like you:
+If this sounds like you(you belong here):
 > I'm an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share this similar interest to me and to grow alongside them.
 
-Secondarily we also invite designers, PMs, and dev-adjacent technical(DevRel, solutions, EMs, tech CMs, etc.) folks to attend our events. We welcome unique perspectives into our community.
+Secondarily, we also invite designers, PMs, and dev-adjacent technical(DevRel, solutions, EMs, tech CMs, etc.) folks to attend our events. We welcome unique perspectives into our community.
 
 ## Rituals
 - At every event, we have an intro circle at exactly 2:30pm. 
 
-## The Gathering Place / Temple
+## Where we Gather
 - Every 2 weeks we gather, at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
 - We communicate over Discord or the prefferred contact method mutually accepted by both individual parties. 
 
