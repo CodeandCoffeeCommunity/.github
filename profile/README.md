@@ -5,7 +5,7 @@
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
 3. Get a Discord Invite by going to www.codeandcoffee.community on your web browser. Follow the prompts in the #welcome & #rules channel.
-4. After agreeing to the prompts, **introduce yourself on Discord #general-and-random**. We're a friendly folks and look forward to getting to know you :)
+4. After agreeing to the prompts, **introduce yourself in #general-and-random**. We're friendly folks and look forward to getting to know you :)
 5. Congrats you're a Verified Member! Contribute, bring your own projects, network, contribute, and/or volunteer. It's up to you!
 
 ## Stories
