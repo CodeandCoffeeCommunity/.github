@@ -55,13 +55,13 @@ Access to private channels and input into key decisions decided by the lead orga
 ### 2. Advocates & Volunteers
 You've indicated interest in volunteering or have recognized contributions to an organizer and have received sufficient written correspondence.
 
-This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteer(General title), or contributor(Github Contributor). Much less intensive than co-organizing.  
+This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteer(General title), or contributor(Github Contributor). Much less intensive than co-organizing while having significant impact on steering of community initiatives.  
 - Advocate
 - Volunteer
 - Former Advocates & Volunteers
 
 ### 3. Verified Members
-The majority of people will be here! We'd love for you to enjoy yourself and your presence is contribution enough.
+The majority of people will be here! We'd love for you to enjoy yourself and your presence is enough contribution :)
 - Distinguished Community Member
 - Verified Community Member
 - NEW Community Member
@@ -70,7 +70,7 @@ The majority of people will be here! We'd love for you to enjoy yourself and you
 - Visitor (Start here)
 
 ### 5. Outsiders
-We do not want these people for the safety of the group and established values of the community
+We do not want these people for the safety of the group and established values of the community. Outsiders include non-technical folks with no active intention of learning to code, 3rd-party recruiters here to source mid/sr devs without permission, 
 - Outsiders
 - Banned
 
