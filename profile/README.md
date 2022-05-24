@@ -1,5 +1,5 @@
 # Welcome to the Code & Coffee Community!
-![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
+
 
 ## Become a Verified Member >>NEW Visitors do this<<
 1. Attend a C&C event & participate in the intro circle.
@@ -16,6 +16,7 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 
 
 # Our Community Principles 
+![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 > Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
 > A community is a group of individuals who share a mutual concern for each other’s welfare. When we form a community that grows friendships, we create what we seek, friends who care about the welfare of one another.
 > [The Art of Community: Seven Principles for Belonging](https://www.amazon.com/dp/B01E4KC0U4/)
