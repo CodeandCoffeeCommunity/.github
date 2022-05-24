@@ -1,7 +1,7 @@
 # Welcome to the Code & Coffee Community!
 ![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 
-## Become a Verified Member >> NEW Visitors do this <<
+## Become a Verified Member >>NEW Visitors do this<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
 3. Get a Discord Invite by going to www.codeandcoffee.community on your web browser. Follow the prompts in the #welcome & #rules channel.
