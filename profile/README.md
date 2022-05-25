@@ -56,7 +56,6 @@ Titles with "Former" in them can be reinstated to their former title given Lead 
 Access to private channels and input into key decisions decided by the lead organizer
 - Lead Organizer
 - Organizer
-- Former co-organizer
 
 ### 2. Advocates & Volunteers
 You've indicated interest in volunteering or have recognized contributions to an organizer and have received sufficient written correspondence.
@@ -64,7 +63,6 @@ You've indicated interest in volunteering or have recognized contributions to an
 This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteer(General title), or contributor(Github Contributor). Much less intensive than co-organizing while having significant impact on steering of community initiatives.  
 - Advocate
 - Volunteer
-- Former Advocates & Volunteers
 
 ### 3. Verified Members
 The majority of people will be here! We'd love for you to enjoy yourself and your presence is enough contribution :)
