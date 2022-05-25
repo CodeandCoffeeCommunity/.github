@@ -74,7 +74,7 @@ The majority of people will be here! We'd love for you to enjoy yourself and you
 - Verified Community Member
 
 ### 4. New folks
-- Visitor (Unregistered Discord people Start here)
+- Visitor (Start here)
 
 ### 5. Outsiders
 We do not want these people for the safety of the group and established values of the community. Outsiders include non-technical folks with no active intention of learning to code, 3rd-party recruiters here to source mid/sr devs without permission, 
