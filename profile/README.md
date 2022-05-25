@@ -5,7 +5,7 @@ Our Shared Values:
 - We are friendly to all(new/old) developers and are willing to lend a hand/ear when available. 
 ![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 **Table of Contents:**
-1. [Become a Member](https://github.com/nyccodecoffee#become-a-verified-member)
+1. [Become a Member << Visitors Start Here >>](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
 2. [Stories](https://github.com/nyccodecoffee#stories)
 3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
