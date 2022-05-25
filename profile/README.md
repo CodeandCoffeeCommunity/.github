@@ -4,6 +4,7 @@ Our Shared Values:
 - We are genuinely open and honest in our interactions with each other. 
 - We are friendly to new developers and are willing to lend a hand/ear when available. 
 ![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
+  
 **Table of Contents:**
 1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
 2. [Stories](https://github.com/nyccodecoffee#stories)
@@ -17,35 +18,39 @@ Our Shared Values:
 2. Grab a free laptop sticker and Resource Card.
 3. Get a Discord Invite by going to www.codeandcoffee.community on your web browser. Follow the prompts in the #welcome & #rules channel.
 4. After agreeing to the prompts, **introduce yourself in #general-and-random**. We're friendly folks and look forward to getting to know you :)
-5. Congrats you're a Verified Member! Contribute, bring your own projects, network, contribute, and/or volunteer. It's up to you!
-
+5. Congrats you're a Verified Member! Contribute, bring your own projects, network, contribute, and/or volunteer. It's up to you!  
+  
+[^ Back to Top](https://github.com/nyccodecoffee)
 ## Stories
 _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below for some inspiration.
 - [Why I Code & Coffee](https://towardsdatascience.com/why-i-code-coffee-e2237ec709bc) (Medium)
 - [Code and Coffee provides a space for personal projects on the weekend](https://technical.ly/software-development/code-coffee-dc/) (technical.ly)
 - The Origin Story of New York Code & Coffee
-
-
+  
+[^ Back to Top](https://github.com/nyccodecoffee)
 # Our Community Principles 
 > Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
 > A community is a group of individuals who share a mutual concern for each other’s welfare. When we form a community that grows friendships, we create what we seek, friends who care about the welfare of one another.
 > [The Art of Community: Seven Principles for Belonging](https://www.amazon.com/dp/B01E4KC0U4/)
 
-Our goal for this section is to communicate who we are as a community and those boundaries of those we accept in our community. We do this to establish a level of community safety and belonging in the largest city in America.  
-
+Our goal for this section is to communicate who we are as a community and those boundaries of those we accept in our community. We do this to establish a level of community safety and belonging accross all developers new and old.
+  
+[^ Back to Top](https://github.com/nyccodecoffee)
 ## Identity & Boundaries
 If this sounds like you, you belong here:
 >I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share this similar interest to me and to grow alongside them.
 
 Secondarily, we also invite designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.
-
+  
+[^ Back to Top](https://github.com/nyccodecoffee)
 ## Rituals
 - At every event, we have an intro circle at exactly 2:30pm. 
 
 ## When/Where we Gather
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
 - **Online**: 24/7, We communicate over Discord or the prefferred contact method mutually accepted by both individual parties. 
-
+  
+[^ Back to Top](https://github.com/nyccodecoffee)
 
 ## Inner Circles
 As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. At a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
@@ -74,7 +79,8 @@ The majority of people will be here! We'd love for you to enjoy yourself and you
 We do not want these people for the safety of the group and established values of the community. Outsiders include non-technical folks with no active intention of learning to code, 3rd-party recruiters here to source mid/sr devs without permission, 
 - Outsiders
 - Banned
-
-
+[^ Back to Top](https://github.com/nyccodecoffee)
+  
 ## How to Volunteer / Advocate / Contribute
 Currently, as of May 25th. DM @SteveC#2340 on Discord.
+[^ Back to Top](https://github.com/nyccodecoffee)
