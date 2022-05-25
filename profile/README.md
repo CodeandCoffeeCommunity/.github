@@ -1,9 +1,10 @@
 # Welcome to the Code & Coffee Community!
+![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 **Our Shared Values**:
 - We are Software Developers with the shared mindset of helping each other grow and to making new friends. 
 - We are genuinely open and honest in our interactions with each other. 
 - We are friendly to new developers and are willing to lend a hand/ear when available. 
-![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
+
   
 ## **Table of Contents**
 1. [Shared Values](https://github.com/nyccodecoffee/nyccodecoffee#welcome-to-the-code--coffee-community)
