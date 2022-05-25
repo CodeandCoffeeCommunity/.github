@@ -1,6 +1,16 @@
 # Welcome to the Code & Coffee Community!
+- We are Software Developers with the shared mindset of helping each other grow and to making new friends. 
+- We are genuinely open and honest in our interactions with each other. 
+- We are friendly to all(new/old) developers and are willing to lend a hand/ear when available. 
 
-
+**Table of Contents:**
+1. [Become a Member](https://github.com/nyccodecoffee#become-a-verified-member)
+2. [Stories](https://github.com/nyccodecoffee#stories)
+3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
+   1. [Rituals](https://github.com/nyccodecoffee#rituals)
+   2. [When/Where We Gather](https://github.com/nyccodecoffee#where-we-gather)
+   3. [Inner Circles](https://github.com/nyccodecoffee#inner-circles)
+4. [How to Volunteer / Contribute / Advocate](https://github.com/nyccodecoffee#how-to-volunteer--advocate--contribute)
 ## Become a Verified Member >>NEW Visitors do this<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
@@ -23,27 +33,22 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 
 Our goal for this section is to communicate who we are as a community and those boundaries of those we accept in our community. We do this to establish a level of community safety and belonging in the largest city in America.  
 
-## Shared Values
-- We are Software Developers with the shared mindset of helping each other grow and to making new friends. 
-- We are genuinely open and honest in our interactions with each other. 
-- We are friendly to all(new/old) developers and are willing to lend a hand/ear when available. 
-
 ## Identity & Boundaries
-If this sounds like you(you belong here):
-> I'm an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share this similar interest to me and to grow alongside them.
+If this sounds like you, you belong here:
+> I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share this similar interest to me and to grow alongside them.
 
-Secondarily, we also invite designers, PMs, and dev-adjacent technical(DevRel, solutions, EMs, tech CMs, etc.) folks to attend our events. We welcome unique perspectives into our community.
+Secondarily, we also invite designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.
 
 ## Rituals
 - At every event, we have an intro circle at exactly 2:30pm. 
 
-## Where we Gather
-- Every 2 weeks we gather, at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
-- We communicate over Discord or the prefferred contact method mutually accepted by both individual parties. 
+## When/Where we Gather
+- In-person: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
+- Online: 24/7, We communicate over Discord or the prefferred contact method mutually accepted by both individual parties. 
 
 
 ## Inner Circles
-As a community, we believe in recognition for helping build and sustain this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. At a group with almost 2k members in under a year, it is crucial to recognize folks with a title that signifies their contribution to the community. These titles are reflected on Discord.
+As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. At a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
 
 Titles with "Former" in them can be reinstated to their former title given Lead Organizer approval. 
 
