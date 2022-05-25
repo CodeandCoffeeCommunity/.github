@@ -1,8 +1,9 @@
 # Welcome to the Code & Coffee Community!
+
 - We are Software Developers with the shared mindset of helping each other grow and to making new friends. 
 - We are genuinely open and honest in our interactions with each other. 
 - We are friendly to all(new/old) developers and are willing to lend a hand/ear when available. 
-
+![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 **Table of Contents:**
 1. [Become a Member](https://github.com/nyccodecoffee#become-a-verified-member)
 2. [Stories](https://github.com/nyccodecoffee#stories)
@@ -26,7 +27,6 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 
 
 # Our Community Principles 
-![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 > Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
 > A community is a group of individuals who share a mutual concern for each other’s welfare. When we form a community that grows friendships, we create what we seek, friends who care about the welfare of one another.
 > [The Art of Community: Seven Principles for Belonging](https://www.amazon.com/dp/B01E4KC0U4/)
