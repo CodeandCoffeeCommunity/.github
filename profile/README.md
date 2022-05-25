@@ -46,7 +46,7 @@ Secondarily, we also invite designers, PMs, and dev-adjacent technical current/p
 ## Rituals
 - At every event, we have an intro circle at exactly 2:30pm. 
 
-## When/Where we Gather
+## When / Where we Gather
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
 - **Online**: 24/7, We communicate over Discord or the prefferred contact method mutually accepted by both individual parties.   
   
