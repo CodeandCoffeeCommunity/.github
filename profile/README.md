@@ -1,5 +1,5 @@
 # Welcome to the Code & Coffee Community!
-
+Our Shared Values:
 - We are Software Developers with the shared mindset of helping each other grow and to making new friends. 
 - We are genuinely open and honest in our interactions with each other. 
 - We are friendly to all(new/old) developers and are willing to lend a hand/ear when available. 
