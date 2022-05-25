@@ -10,7 +10,7 @@ Our Shared Values:
 2. [Stories](https://github.com/nyccodecoffee#stories)
 3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
-   2. [When/Where We Gather](https://github.com/nyccodecoffee#where-we-gather)
+   2. [When/Where We Gather](https://github.com/nyccodecoffee#whenwhere-we-gather)
    3. [Inner Circles](https://github.com/nyccodecoffee#inner-circles)
 4. [How to Volunteer / Contribute / Advocate](https://github.com/nyccodecoffee#how-to-volunteer--advocate--contribute)
 ## Become a Verified Member >>NEW Visitors do this<<
