@@ -14,7 +14,7 @@
    2. [When / Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Inner Circles](https://github.com/nyccodecoffee#inner-circles)
 4. [How to Volunteer / Contribute / Advocate](https://github.com/nyccodecoffee#how-to-volunteer--advocate--contribute)
-## Become a Verified Member >>NEW Visitors do this<<
+## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
 3. Get a Discord Invite by going to www.codeandcoffee.community on your web browser. Follow the prompts in the #welcome & #rules channel.
