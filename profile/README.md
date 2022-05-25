@@ -7,7 +7,6 @@
 
   
 ## **Table of Contents**
-1. [Shared Values](https://github.com/nyccodecoffee/nyccodecoffee#welcome-to-the-code--coffee-community)
 1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
 2. [Stories](https://github.com/nyccodecoffee#stories)
 3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
