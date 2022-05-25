@@ -66,10 +66,9 @@ This is an empowered group of community members that resonate with the Code & Co
 The majority of people will be here! We'd love for you to enjoy yourself and your presence is enough contribution :)
 - Distinguished Community Member
 - Verified Community Member
-- NEW Community Member
 
 ### 4. New folks
-- Visitor (Start here)
+- Visitor (Unregistered Discord people Start here)
 
 ### 5. Outsiders
 We do not want these people for the safety of the group and established values of the community. Outsiders include non-technical folks with no active intention of learning to code, 3rd-party recruiters here to source mid/sr devs without permission, 
