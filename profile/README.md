@@ -35,7 +35,7 @@ Our goal for this section is to communicate who we are as a community and those 
 
 ## Identity & Boundaries
 If this sounds like you, you belong here:
-> I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share this similar interest to me and to grow alongside them.
+>I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share this similar interest to me and to grow alongside them.
 
 Secondarily, we also invite designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.
 
@@ -43,14 +43,12 @@ Secondarily, we also invite designers, PMs, and dev-adjacent technical current/p
 - At every event, we have an intro circle at exactly 2:30pm. 
 
 ## When/Where we Gather
-- In-person: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
-- Online: 24/7, We communicate over Discord or the prefferred contact method mutually accepted by both individual parties. 
+- **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
+- **Online**: 24/7, We communicate over Discord or the prefferred contact method mutually accepted by both individual parties. 
 
 
 ## Inner Circles
 As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. At a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
-
-Titles with "Former" in them can be reinstated to their former title given Lead Organizer approval. 
 
 ### 1. Organizers
 Access to private channels and input into key decisions decided by the lead organizer
@@ -80,4 +78,4 @@ We do not want these people for the safety of the group and established values o
 
 
 ## How to Volunteer / Advocate / Contribute
-Currently, as of May 24th. DM @SteveC#2340 on Discord.
+Currently, as of May 25th. DM @SteveC#2340 on Discord.
