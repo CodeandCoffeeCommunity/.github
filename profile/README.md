@@ -27,7 +27,7 @@
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Stories
 _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below for some inspiration.
-- The Origin Story of New York Code & Coffee*COMING SOON*
+- The Origin Story of New York Code & Coffee (*COMING SOON*)
 - [Meetup Meets: New York Code & Coffee](https://www.youtube.com/watch?v=SOiq4acY_SM) (Youtube)
 - [Why I Code & Coffee](https://towardsdatascience.com/why-i-code-coffee-e2237ec709bc) (Medium)
 - [Code and Coffee provides a space for personal projects on the weekend](https://technical.ly/software-development/code-coffee-dc/) (technical.ly)
