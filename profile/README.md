@@ -21,15 +21,16 @@
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
 3. Get a Discord Invite by going to www.codeandcoffee.community on your web browser. Follow the prompts in the #welcome & #rules channel.
-4. (optional) After agreeing to the prompts, **introduce yourself in #general-and-random**. We're friendly folks and look forward to getting to know you :)
+4. (optional) After agreeing to the prompts, **introduce yourself in #general-random**. We're friendly folks and look forward to getting to know you :)
 5. Congrats you're a Verified Member! Contribute, bring your own projects, network, contribute, and/or volunteer. It's up to you!  
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Stories
 _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below for some inspiration.
+- The Origin Story of New York Code & Coffee*COMING SOON*
+- [Meetup Meets: New York Code & Coffee](https://www.youtube.com/watch?v=SOiq4acY_SM) (Youtube)
 - [Why I Code & Coffee](https://towardsdatascience.com/why-i-code-coffee-e2237ec709bc) (Medium)
 - [Code and Coffee provides a space for personal projects on the weekend](https://technical.ly/software-development/code-coffee-dc/) (technical.ly)
-- The Origin Story of New York Code & Coffee  
    
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 # Our Community Principles 
