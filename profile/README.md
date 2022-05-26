@@ -14,8 +14,9 @@
    2. [When / Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Inner Circles](https://github.com/nyccodecoffee#inner-circles)
 4. [How to Volunteer / Advocate](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
-   1. [Volunteering](https://github.com/nyccodecoffee#volunteer)
+   1. [Volunteer Information](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy Program](https://github.com/nyccodecoffee#developer-advocacy-program)
+5. [Active Open Projects - Coming soon!](https://niceme.me/)
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
