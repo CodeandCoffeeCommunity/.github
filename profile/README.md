@@ -13,7 +13,7 @@
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When / Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Inner Circles](https://github.com/nyccodecoffee#inner-circles)
-4. [How to Volunteer / Contribute / Advocate](https://github.com/nyccodecoffee#how-to-volunteer--advocate--contribute)
+4. [How to Volunteer / Advocate](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
