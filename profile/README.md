@@ -35,15 +35,16 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 # Our Community Principles 
 > Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
+
 > A community is a group of individuals who share a mutual concern for each other’s welfare. When we form a community that grows friendships, we create what we seek, friends who care about the welfare of one another.
 > [The Art of Community: Seven Principles for Belonging](https://www.amazon.com/dp/B01E4KC0U4/)
 
-Our goal for this section is to communicate who we are as a community and those boundaries of those we accept in our community. We do this to establish a level of community safety and belonging accross all developers new and old.  
+Our goal for this section is to communicate who we are as a community and the boundaries of those we accept in our community. We do this to establish a level of community safety and belonging across all developers, new and old. 
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Identity & Boundaries
 If this sounds like you, you belong here:
->I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share this similar interest to me and to grow alongside them.
+>I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share a similar interest to me and to grow alongside them.
 
 Secondarily, we also invite designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.  
   
@@ -53,12 +54,12 @@ Secondarily, we also invite designers, PMs, and dev-adjacent technical current/p
 
 ## When / Where we Gather
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
-- **Online**: 24/7, We communicate over Discord or the prefferred contact method mutually accepted by both individual parties.   
+- **Online**: 24/7, we communicate over Discord or the prefferred contact method mutually accepted by both individual parties.   
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 ## Inner Circles
-As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. At a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
+As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. In a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
 
 ### 1. Organizers
 Access to private channels and input into key decisions decided by the lead organizer
@@ -68,7 +69,7 @@ Access to private channels and input into key decisions decided by the lead orga
 ### 2. Volunteers
 You've indicated interest in volunteering or have recognized contributions to an organizer and have received sufficient written correspondence.
 
-This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteer(General title), or contributor(Github Contributor). Much less intensive than co-organizing while having significant impact on steering of community initiatives.  
+This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteer(General title), or contributor(Github Contributor). Much less intensive than co-organizing while having a significant impact on the steering of community initiatives.
 - Advocate
 - Contributor
 - Volunteer
@@ -83,7 +84,7 @@ You likely saw this from Meetup.com or referred by an advocate. Welcome!
 - Visitor (Start here)
 
 ### 5. Outsiders
-We do not want these people for the safety of the group and established values of the community. Outsiders include non-technical folks with no active intention of learning about code or an active interest in contributing and growing the community.
+We do not want these people for the safety of the group and the established values of the community. Outsiders include non-technical folks with no active intention of learning about code or an active interest in contributing to and growing the community.
 - Outsiders
 - Banned
 
