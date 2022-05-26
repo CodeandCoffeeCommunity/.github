@@ -92,7 +92,7 @@ We do not want these people for the safety of the group and established values o
 ## How to Volunteer / Advocate 
 We want you to grow and gain the skills you need to work in a professional tech-related role. For more context, see an organizer.
 ### Volunteer Information
-- Currently volunteers are first come, first serve. Here's a list of duties - if you're still willing to help, hit up SteveC#2340 or an organizer in-person.
+- Currently volunteers are first come, first serve. Here's a list of duties(link coming by May 29th) - if you're still willing to help, hit up SteveC#2340 or an organizer in-person.
 ### Developer Advocacy Program
 - We're always looking for volunteer Developer Advocates. You report directly to the lead organizer to achieve determined goals around community growth, product strategy, and partnership/sponsorships.
   
