@@ -11,11 +11,12 @@
 2. [Stories](https://github.com/nyccodecoffee#stories)
 3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
-   2. [When / Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
-   3. [Inner Circles](https://github.com/nyccodecoffee#inner-circles)
-4. [How to Volunteer / Advocate](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
-   1. [Volunteer Information](https://github.com/nyccodecoffee#volunteer-information)
-   2. [Developer Advocacy Program](https://github.com/nyccodecoffee#developer-advocacy-program)
+   2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
+   3. [Groups](https://github.com/nyccodecoffee#groups)
+4. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
+   1. [General](https://github.com/nyccodecoffee#volunteer-information)
+   2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
+   3. [Organizing]()
 5. [Active Open Projects - Coming soon!]()
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
@@ -58,7 +59,7 @@ Secondarily, we also invite designers, PMs, and dev-adjacent technical current/p
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
-## Inner Circles
+## Groups
 As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. In a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
 
 ### 1. Organizers
@@ -91,10 +92,10 @@ We do not want these people for the safety of the group and the established valu
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
   
-## How to Volunteer / Advocate 
+## How to Support
 We want you to grow and gain the skills you need to work in a professional tech-related role. For more context, see an organizer.
 ### Volunteer Information
-- Currently volunteers are first come, first serve. Here's a list of duties(link coming by May 29th) - if you're still willing to help, hit up SteveC#2340 or an organizer in-person.
+- Here's a list of duties we currently need help with (deets/link coming by May 29th) 
 ### Developer Advocacy Program
 - We're always looking for volunteer Developer Advocates. You report directly to the lead organizer to achieve determined goals around community growth, product strategy, and partnership/sponsorships.
   
