@@ -1,9 +1,9 @@
 # Welcome to the Code & Coffee Community!
 ![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 **Our Shared Values**:
-- We are tech workers that work directly with Software Engineers with the shared mindset of helping each other grow and to making new friends. 
-- We are genuinely open and honest in our interactions with each other. 
-- We are friendly to new developers and are willing to lend a hand/ear when available. 
+- We are tech workers that work directly with Software Engineers with the mindset of helping each other grow and mae new friends. 
+- We strive to be genuine and honest in our interactions with each other. 
+- We strive to be friendly to new developers and are willing to lend a hand/ear when available. 
 
   
 ## **Table of Contents**
@@ -18,7 +18,7 @@
 4. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
    1. [General](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
-   3. [Organizing]()
+   3. [Donate](https://github.com/nyccodecoffee#donate)
 5. [Active Open Projects - Coming soon!]()
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
@@ -99,7 +99,7 @@ We do not want these people for the safety of the group and the established valu
 ## How to Support
 There's many ways you can support, please do what makes you comfortable. That being said, we want you to grow individually and gain the skills you need to work in a professional tech-related role. We want you to show off these titles. For more context, see an organizer.
 ### Volunteer 
-Here's a list of duties we need help with:
+We're open to volunteers! Here's a list of duties we need help with:
 - Issue classification(PM) - tagging the issues with the correct tags.
 - Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
 - Intro Circle Analyst - Run the intro circle and read off a pre-determined script and analyze for feedback
@@ -112,9 +112,13 @@ Here's a list of duties we need help with:
 ### Developer Advocacy Program
 - We're always looking for volunteer Developer Advocates. You report directly to the lead organizer to achieve determined metrics around community growth, product strategy, and partnership/sponsorships through your own autonomy. 
 
-### Buy a coffee
+### Organizing
+- Higher committment role. The core group of folks that run these events. These are people that strive to build trust with attendees and understands the impact of being a public figure within the community. 
+- Inquire with Steve#2340 on discord or in-person if interested!
+
+### Donate
 We are 100% volunteer-run and look to use all funds toward operating this community and possibly incentivizing future ones. 
   
-Buy us a coffee @ https://ko-fi.com/nyccodecoffee
+Donate @ https://ko-fi.com/nyccodecoffee
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
