@@ -1,9 +1,9 @@
 # Welcome to the Code & Coffee Community!
 ![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 **Our Shared Values**:
-- We are tech folks that work alongside Software Engineers with the mindset of helping each other grow and make new friends. 
+- We are people in tech that work alongside Software Engineers with the mindset of helping each other grow and make new friends. 
 - We strive to be genuine and honest in our interactions with each other. 
-- We strive to be friendly to new developers and are willing to lend a hand/ear when available. 
+- We strive to be friendly to new developers and are willing to lend an ear when available. 
   
 ## **Table of Contents**
 1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
@@ -62,7 +62,7 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 - **Online**: 24/7, we communicate over Discord or the prefferred contact method mutually accepted by both individual parties.   
 
 ## How to Gracefully Exit
-Being part of a community sometimes requires comittment through contributor, advocate, organizer, and volunteer roles. Sometimes you just need a break or you've achieved all your individual goals. That's fine and we fully encourage your growth. To leave, indicate your name in the feedback form with a short desc of what you're giving up or a "IM OUT". You will always be re-invited to join anytime at a later date.
+Being part of a community sometimes requires comittment through contributor, advocate, organizer, and volunteer roles. Sometimes you just need a break or you've achieved all your individual goals. That's fine and we fully encourage your growth. To leave, indicate your name in the [feedback form](https://forms.gle/zmVKy22uB1iooV6X7) with a short desc of what you're giving up or a "IM OUT". You will always be re-invited to join anytime at a later date.
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
