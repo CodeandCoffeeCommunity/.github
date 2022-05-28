@@ -12,6 +12,7 @@
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Groups](https://github.com/nyccodecoffee#groups)
+   4. [How to leave the community](https://github.com/nyccodecoffee#how-to-leave-the-community)
 4. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
    1. [General Tasks (Volunteer)](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
@@ -59,6 +60,9 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 ## When / Where we Gather
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
 - **Online**: 24/7, we communicate over Discord or the prefferred contact method mutually accepted by both individual parties.   
+
+## How to Exit
+Being part of a community sometimes requires comittment through contributor, advocate, organizer, and volunteer roles. Sometimes you just need a break or you've achieved all your individual goals. That's fine and we fully encourage your growth. To leave, indicate your name in the feedback form with a short desc of what you're giving up or a "IM OUT". You will always be re-invited to join anytime at a later date.
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
@@ -66,7 +70,7 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. In a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
 
 ### 1. Organizers
-Access to private channels and input into key decisions decided by the lead organizer
+Access to private channels and input into key decisions decided by the lead organizer. After a certain amount of time of absence(TBD) we will remove organizers from their Discord and meetup titles. This is to ensure safety and clear communication. Former Organizers are highly encouraged to return.
 - Lead Organizer
 - Organizer
 
@@ -117,7 +121,7 @@ Open Source issues are on the project board at https://github.com/orgs/nyccodeco
 - Developer Advocate - See below. We want everyone to do this.
 - Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
 - Quality Assurance - Ensure things work as expected and bugs are filed in issues.
-- Feedback - Issues with the venue. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
+- Feedback - Issues and/or improvements. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
 
 
 ### Developer Advocacy Program
