@@ -147,4 +147,4 @@ We currently have one project. We're open to new projects you think may help the
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 ### Feedback 
-- General Feedback form: https://forms.gle/zmVKy22uB1iooV6X7
+- General Feedback form: https://forms.gle/zmVKy22uB1iooV6X7 please report any urgent issues to organizers over Discord and Meetup.
