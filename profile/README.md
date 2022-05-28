@@ -67,7 +67,7 @@ Being part of a community sometimes requires comittment through contributor, adv
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 ## Groups
-As a community, we believe in recognition for building and sustaining this grassroots tech community. Every event requires a venue sponsor, wifi, people, and coffee. In a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
+As a community, we believe in recognition for building and sustaining this grassroots tech community. In a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
 
 ### 1. Organizers
 Access to private channels and input into key decisions decided by the lead organizer. After a certain amount of time of absence(TBD) we will remove organizers from their Discord and meetup titles. This is to ensure safety and clear communication. Former Organizers are highly encouraged to return.
@@ -131,15 +131,16 @@ To figure out what's priority and figure out how to get to your own individual g
 - Inquire with Steve#2340 on discord or an organizer in-person if interested!
 
 ### Donate
-We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. We actively look for opportunities with sponsors and potential partnerships to create better events.
+We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. Every event requires a venue sponsor, wifi, people, and coffee. We actively look for opportunities with sponsors and potential partnerships to create better events that server our community
 
-Donate @ https://ko-fi.com/nyccodecoffee
+- Donate @ https://ko-fi.com/nyccodecoffee
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 
 ### Active Open Source Projects
-We currently have one project. We're open to new projects you think may help the community or just seem fun.
-[NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
+We currently have one project. We're open to new projects you think may help the community or just seem fun.  
+  
+- [NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
