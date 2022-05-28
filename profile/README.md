@@ -13,11 +13,12 @@
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Groups](https://github.com/nyccodecoffee#groups)
    4. [How to Gracefully Exit](https://github.com/nyccodecoffee#how-to-gracefully-exit)
-4. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
+4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
+5. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
    1. [General Tasks (Volunteer)](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
    3. [Donate](https://github.com/nyccodecoffee#donate)
-5. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
+6. [Feedback](https://github.com/nyccodecoffee#feedback)
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
@@ -144,3 +145,6 @@ We currently have one project. We're open to new projects you think may help the
 - [NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
+
+### Feedback 
+- General Feedback form: https://forms.gle/zmVKy22uB1iooV6X7
