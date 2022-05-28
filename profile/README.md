@@ -115,7 +115,7 @@ Here's some ways you can support.
 **In-person Events**
 - Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
 - Intro Circle Speaker - Run the intro circle and read off a pre-determined script and analyze for feedback
-- Lost Puppy finder - Find people looking lost and begin a conversation to ease feelings of belongingness. Bonus points: For being able to connect people with relevant interests together.
+- Lost Puppy finder - Find people looking lost and begin a conversation to ease anxieties.
 - Developer Advocate - See below. We want everyone to do this.
 - Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
 - Quality Assurance - Ensure things work as expected and bugs are filed in issues.
