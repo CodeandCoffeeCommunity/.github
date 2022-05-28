@@ -130,7 +130,7 @@ Here's some ways you can support.
 - Inquire with Steve#2340 on discord or an organizer in-person if interested!
 
 ### Donate
-We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. Every event requires a venue sponsor, wifi, people, and coffee. We actively look for opportunities with sponsors and potential partnerships to create better events that server our community
+We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. Every event requires a venue sponsor, wifi, people, and coffee. We actively look for opportunities with sponsors and potential partnerships to create better events that serve the interests of our community.
 
 - Donate @ https://ko-fi.com/nyccodecoffee
 
