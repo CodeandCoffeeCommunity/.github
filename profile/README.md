@@ -25,7 +25,7 @@
 4. (optional) After agreeing to the prompts, **introduce yourself in #general-random**. We're friendly folks and look forward to getting to know you :)
 5. Congrats you're a Verified Member! Contribute, bring your own projects, network, contribute, and/or volunteer. It's up to you!  
 
-**Code of Conduct**: As summarized in step 4 of Discord, every member is also expected to oblige by the Code of Conduct  https://www.newyorkcodeandcoffee.com/coc.html for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
+**Code of Conduct**: As summarized in step 4 of Discord, every member is also expected to oblige by the [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Stories
