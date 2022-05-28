@@ -1,7 +1,7 @@
 # Welcome to the Code & Coffee Community!
 ![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 **Our Shared Values**:
-- We are tech workers that work directly with Software Engineers with the mindset of helping each other grow and mae new friends. 
+- We are tech folks that work alongside Software Engineers with the mindset of helping each other grow and make new friends. 
 - We strive to be genuine and honest in our interactions with each other. 
 - We strive to be friendly to new developers and are willing to lend a hand/ear when available. 
   
