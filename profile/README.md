@@ -1,7 +1,7 @@
 # Welcome to the Code & Coffee Community!
 ![hRrDKai](https://user-images.githubusercontent.com/10738004/170132859-6e3ef8c2-42d8-4298-9a27-8d8090be94c0.jpeg)
 **Our Shared Values**:
-- We are Software Developers with the shared mindset of helping each other grow and to making new friends. 
+- We are tech workers that work directly with Software Engineers with the shared mindset of helping each other grow and to making new friends. 
 - We are genuinely open and honest in our interactions with each other. 
 - We are friendly to new developers and are willing to lend a hand/ear when available. 
 
@@ -13,6 +13,8 @@
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Groups](https://github.com/nyccodecoffee#groups)
+      1.[New people](https://github.com/nyccodecoffee#outsiders)
+      2.[Outsiders](https://github.com/nyccodecoffee#outsiders)
 4. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
    1. [General](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
@@ -47,7 +49,9 @@ Our goal for this section is to communicate who we are as a community and the bo
 If this sounds like you, you belong here:
 >I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share a similar interest to me and to grow alongside them.
 
-Secondarily, we also invite designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.  
+Poeple like designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.
+
+**You are ENCOURAGED to share any jobs your company may be offering**. For the safety of our community, we ask that 3rd-party recruiters with an interest in sourcing on behalf of another company reach out to an organizer beforehand so C&C, harassment is not tolerated and we do not give warnings.
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Rituals
@@ -85,7 +89,7 @@ You likely saw this from Meetup.com or referred by an advocate. Welcome!
 - Visitor (Start here)
 
 ### 5. Outsiders
-We do not want these people for the safety of the group and the established values of the community. Outsiders include non-technical folks with no active intention of learning about code or an active interest in contributing to and growing the community.
+We do not want these people for the safety of the group and the established values of the community. 
 - Outsiders
 - Banned
 
@@ -93,10 +97,24 @@ We do not want these people for the safety of the group and the established valu
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
   
 ## How to Support
-We want you to grow and gain the skills you need to work in a professional tech-related role. For more context, see an organizer.
-### Volunteer Information
-- Here's a list of duties we currently need help with (deets/link coming by May 29th) 
+There's many ways you can support, please do what makes you comfortable. That being said, we want you to grow individually and gain the skills you need to work in a professional tech-related role. We want you to show off these titles. For more context, see an organizer.
+### Volunteer 
+Here's a list of duties we need help with:
+- Issue classification(PM) - tagging the issues with the correct tags.
+- Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
+- Intro Circle Analyst - Run the intro circle and read off a pre-determined script and analyze for feedback
+- Lost Puppy finder - Find people looking lost the room and begin a conversation to ease feelings of belongingness. Bonus points* for being able to connect people together.
+- Developer Advocate - See below. We want everyone to do this.
+- Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
+
+*cheesiest swag you can imagine. 
+
 ### Developer Advocacy Program
-- We're always looking for volunteer Developer Advocates. You report directly to the lead organizer to achieve determined goals around community growth, product strategy, and partnership/sponsorships.
+- We're always looking for volunteer Developer Advocates. You report directly to the lead organizer to achieve determined metrics around community growth, product strategy, and partnership/sponsorships through your own autonomy. 
+
+### Buy a coffee
+We are 100% volunteer-run and look to use all funds toward operating this community and possibly incentivizing future ones. 
   
+Buy us a coffee @ https://ko-fi.com/nyccodecoffee
+
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
