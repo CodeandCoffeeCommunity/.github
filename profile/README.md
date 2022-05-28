@@ -96,10 +96,10 @@ We do not want these people for the safety of the group and the established valu
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
   
 ## How to Support
-Here's some ways you can support. We're open for volunteers.
+Here's some ways you can support. We're open to volunteers!
 
 ### Ongoing tasks (Volunteer)
-We're open to volunteers! Here's a list of duties we always need help with. To figure out what's priority, ask an organizer.
+Here's a list of duties we always need help with. To figure out what's priority, ask an organizer.
 
 **Open Source Issues**
 Open Source issues are on the project board at https://github.com/orgs/nyccodecoffee/projects/2/views/3 
@@ -121,7 +121,7 @@ Open Source issues are on the project board at https://github.com/orgs/nyccodeco
 
 
 ### Developer Advocacy Program
-- We're always looking for Developer Advocates. You informally report to the lead organizer to help achieve determined metrics around community growth, product vision/strategy, and partnership/sponsorships via your own autonomy. Ideally for folks with marketing experience and/or professional software engineers that like C&C!
+- We're always looking for Developer Advocates. You informally report to the lead organizer to help achieve determined metrics around community growth, product vision/strategy, and partnership/sponsorships via your own autonomy. Ideally for folks with marketing experience and/or professional software engineers that really like C&C and can bring other software folks!
 
 ### Organizing
 - Higher committment role. The core group of folks that run these events. These are people that strive to build trust with attendees and understands the impact of being a public figure within the community. 
