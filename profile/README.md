@@ -3,7 +3,7 @@
 ![uGX6R6y](https://user-images.githubusercontent.com/10738004/170815148-911c63e6-e6ab-4614-8f41-3b19230f6a60.jpeg)
 
 **Our Shared Values**:
-- We are people in tech that work alongside Software Engineers with the mindset of helping each other grow and make new friends. 
+- We tend to be Software Engineers with the mindset of helping each other grow and make new friends. 
 - We strive to be genuine and honest in our interactions with each other. 
 - We strive to be friendly and are willing to lend themselves as a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) when available. 
   
