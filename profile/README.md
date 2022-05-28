@@ -12,7 +12,7 @@
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Groups](https://github.com/nyccodecoffee#groups)
-   4. [How to leave the community](https://github.com/nyccodecoffee#how-to-leave-the-community)
+   4. [How to Gracefully Exit](https://github.com/nyccodecoffee#how-to-gracefully-exit)
 4. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
    1. [General Tasks (Volunteer)](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
@@ -61,7 +61,7 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
 - **Online**: 24/7, we communicate over Discord or the prefferred contact method mutually accepted by both individual parties.   
 
-## How to Exit
+## How to Gracefully Exit
 Being part of a community sometimes requires comittment through contributor, advocate, organizer, and volunteer roles. Sometimes you just need a break or you've achieved all your individual goals. That's fine and we fully encourage your growth. To leave, indicate your name in the feedback form with a short desc of what you're giving up or a "IM OUT". You will always be re-invited to join anytime at a later date.
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
