@@ -77,15 +77,15 @@ Access to private channels and input into key decisions decided by the lead orga
 - Lead Organizer
 - Organizer
 
-### 2. Volunteers
+### 2. Volunteers (#volunteers-group)
 You've indicated interest in volunteering or have recognized contributions to an organizer and have received sufficient written correspondence.
 
-This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteer(General title), or contributor(Github Contributor). Much less intensive than co-organizing while having a significant impact on the steering of community initiatives.
+This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteering on tasks, or contributing(PRs, #code-help). Much less intensive than co-organizing while having similar growth opportunities.
 - Advocate
 - Contributor
 - Volunteer
 
-### 3. Verified Members
+### 3. Verified Members(#general-random, Gen. channels)
 The majority of people will be here! We'd love for you to enjoy yourself and your presence is enough contribution :)
 - Distinguished Community Member
 - Verified Community Member
