@@ -148,3 +148,5 @@ We currently have one project. We're open to new projects you think may help the
 
 ### Feedback 
 - General Feedback form: https://forms.gle/zmVKy22uB1iooV6X7 please report any urgent issues to organizers over Discord and Meetup.
+
+_This entire doc was created based on your feedback. Please consider logging it with this form_ :)
