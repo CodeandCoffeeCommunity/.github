@@ -5,7 +5,7 @@
 **Our Shared Values**:
 - We are people in tech that work alongside Software Engineers with the mindset of helping each other grow and make new friends. 
 - We strive to be genuine and honest in our interactions with each other. 
-- We strive to be friendly and are willing to lend a ([rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) when available. 
+- We strive to be friendly and are willing to lend a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) when available. 
   
 ## **Table of Contents**
 1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
