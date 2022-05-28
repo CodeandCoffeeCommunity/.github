@@ -101,10 +101,10 @@ We do not want these people for the safety of the group and the established valu
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
   
 ## How to Support
-Here's some ways you can support. We're open to volunteers!
+Here's some ways you can support.
 
 ### Ongoing tasks (Volunteer)
-To figure out what's priority and figure out how to get to your own individual goals with C&C, ask an organizer.
+ We're open to volunteers! Here's a list of tasks. Ask an organizer if you have any questions or need more context.
 
 **Open Source Issues**
 - Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
