@@ -24,7 +24,7 @@
 4. (optional) After agreeing to the prompts, **introduce yourself in #general-random**. We're friendly folks and look forward to getting to know you :)
 5. Congrats you're a Verified Member! Contribute, bring your own projects, network, contribute, and/or volunteer. It's up to you!  
 
-As summarized in the actions of step 4, every member is also expected to oblige by the Code of Conduct  https://www.newyorkcodeandcoffee.com/coc.html for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
+**Code of Conduct**: As summarized in step 4 of Discord, every member is also expected to oblige by the Code of Conduct  https://www.newyorkcodeandcoffee.com/coc.html for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Stories
@@ -99,26 +99,27 @@ We do not want these people for the safety of the group and the established valu
 There's many ways you can support, please do what makes you comfortable. That being said, we want you to grow individually and gain the skills you need to work in a professional tech-related role. We want you to show off these titles. For more context, see an organizer.
 
 ### Ongoing tasks (Volunteer)
-We're open to volunteers at any level of comittment, from one issue/event to many! Here's a list of duties we always need help with.
+We're open to volunteers! Here's a list of duties we always need help with. To figure out what's priority, ask an organizer.
 
 **Open Source Issues**
-Open Source issues
-- Product Manager - 
+Open Source issues are on the project board at https://github.com/orgs/nyccodecoffee/projects/2/views/3 
 - Issue classification(PM) - tagging the issues with the correct tags.
-- Open Source Contributor - Resolve issue ticket.
-- Operations analysis - Submit detailed docs of how our systems and processes around community driven development can be improved. 
+- Open Source Contributor - Resolve issue tickets with code.
+- Operations - Establish process around open source and NYC&C.
+
 
 **In-person Events**
 - Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
-- Intro Circle Analyst - Run the intro circle and read off a pre-determined script and analyze for feedback
-- Lost Puppy finder - Find people looking lost the room and begin a conversation to ease feelings of belongingness. Bonus points* for being able to connect people together.
+- Intro Circle Speaker - Run the intro circle and read off a pre-determined script and analyze for feedback
+- Lost Puppy finder - Find people looking lost the room and begin a conversation to ease feelings of belongingness. Bonus points: For being able to connect people with relevant interests together.
 - Developer Advocate - See below. We want everyone to do this.
 - Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
+- Quality Assurance - Ensure things work as expected and bugs are filed in issues.
 - Feedback - Issues with the venue. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
 
 
 ### Developer Advocacy Program
-- We're always looking for Developer Advocates. You report directly to the lead organizer to help achieve determined metrics around community growth, product strategy, and partnership/sponsorships through your own autonomy. 
+- We're always looking for Developer Advocates. You informally report to the lead organizer to help achieve determined metrics around community growth, product vision/strategy, and partnership/sponsorships via your own autonomy. Ideally for folks with marketing experience and/or professional software engineers that like C&C!
 
 ### Organizing
 - Higher committment role. The core group of folks that run these events. These are people that strive to build trust with attendees and understands the impact of being a public figure within the community. 
