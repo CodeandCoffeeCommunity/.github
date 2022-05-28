@@ -96,17 +96,18 @@ We do not want these people for the safety of the group and the established valu
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
   
 ## How to Support
-There's many ways you can support, please do what makes you comfortable. That being said, we want you to grow individually and gain the skills you need to work in a professional tech-related role. We want you to show off these titles. For more context, see an organizer.
+Here's some ways you can support. We're open for volunteers.
 
 ### Ongoing tasks (Volunteer)
 We're open to volunteers! Here's a list of duties we always need help with. To figure out what's priority, ask an organizer.
 
 **Open Source Issues**
 Open Source issues are on the project board at https://github.com/orgs/nyccodecoffee/projects/2/views/3 
-- Issue classification - tagging the issues with the correct tags and identifying newbie-friendly ones.
 - Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
 - Open Source Contributor - Resolve issue tickets with code.
 - Operations - Establish process around open source and NYC&C.
+- Issue classificationer - tagging the issues with the correct tags and identifying newbie-friendly ones.
+- PM - Run the above
 
 
 **In-person Events**
