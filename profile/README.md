@@ -17,7 +17,7 @@
    1. [General Tasks (Volunteer)](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
    3. [Donate](https://github.com/nyccodecoffee#donate)
-5. [Active Open Projects](https://github.com/nyccodecoffee#active-open-projects)
+5. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
@@ -103,10 +103,9 @@ We do not want these people for the safety of the group and the established valu
 Here's some ways you can support. We're open to volunteers!
 
 ### Ongoing tasks (Volunteer)
-Here's a list of duties we always need help with. To figure out what's priority and figure out how to get to your own individual goals with C&C, ask an organizer.
+To figure out what's priority and figure out how to get to your own individual goals with C&C, ask an organizer.
 
 **Open Source Issues**
-Open Source issues are on the project board at https://github.com/orgs/nyccodecoffee/projects/2/views/3 
 - Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
 - Open Source Contributor - Resolve issue tickets with code.
 - Operations - Establish process around open source and NYC&C.
@@ -117,7 +116,7 @@ Open Source issues are on the project board at https://github.com/orgs/nyccodeco
 **In-person Events**
 - Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
 - Intro Circle Speaker - Run the intro circle and read off a pre-determined script and analyze for feedback
-- Lost Puppy finder - Find people looking lost the room and begin a conversation to ease feelings of belongingness. Bonus points: For being able to connect people with relevant interests together.
+- Lost Puppy finder - Find people looking lost and begin a conversation to ease feelings of belongingness. Bonus points: For being able to connect people with relevant interests together.
 - Developer Advocate - See below. We want everyone to do this.
 - Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
 - Quality Assurance - Ensure things work as expected and bugs are filed in issues.
@@ -132,15 +131,15 @@ Open Source issues are on the project board at https://github.com/orgs/nyccodeco
 - Inquire with Steve#2340 on discord or an organizer in-person if interested!
 
 ### Donate
-We striving to create a resilient community run by it's own members and look to use all funds toward operating this community and possibly incentivizing future ones in other major cities!  
-  
+We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. We actively look for opportunities with sponsors and potential partnerships to create better events.
+
 Donate @ https://ko-fi.com/nyccodecoffee
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 
-### Active Open Projects
-We currently have one project. We're open to new projects you think may help the community.
+### Active Open Source Projects
+We currently have one project. We're open to new projects you think may help the community or just seem fun.
 [NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
