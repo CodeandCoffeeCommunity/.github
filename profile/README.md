@@ -17,7 +17,7 @@
    1. [General Tasks (Volunteer)](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
    3. [Donate](https://github.com/nyccodecoffee#donate)
-5. [Active Open Projects - Coming soon!]()
+5. [Active Open Projects](https://github.com/nyccodecoffee#active-open-projects)
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
 2. Grab a free laptop sticker and Resource Card.
@@ -103,7 +103,7 @@ We do not want these people for the safety of the group and the established valu
 Here's some ways you can support. We're open to volunteers!
 
 ### Ongoing tasks (Volunteer)
-Here's a list of duties we always need help with. To figure out what's priority, ask an organizer.
+Here's a list of duties we always need help with. To figure out what's priority and figure out how to get to your own individual goals with C&C, ask an organizer.
 
 **Open Source Issues**
 Open Source issues are on the project board at https://github.com/orgs/nyccodecoffee/projects/2/views/3 
@@ -139,4 +139,8 @@ Donate @ https://ko-fi.com/nyccodecoffee
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 
+### Active Open Projects
+We currently have one project. We're open to new projects you think may help the community.
+[NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
 
+[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
