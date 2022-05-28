@@ -48,7 +48,7 @@ Our goal for this section is to communicate who we are as a community and the bo
 If this sounds like you, you belong here:
 >I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share a similar interest to me and to grow alongside them.
 
-Poeple like designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.
+Poeple like designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) are folks we love to have within our community. We welcome unique perspectives into our community.
 
 **You are ENCOURAGED to share any jobs you(or your company) may be offering**. For the safety of community members, we ask that 3rd-party recruiters interested in sourcing on behalf of another company reach out to an organizer beforehand, harassment is not tolerated at our events.
   
@@ -103,7 +103,8 @@ We're open to volunteers! Here's a list of duties we always need help with. To f
 
 **Open Source Issues**
 Open Source issues are on the project board at https://github.com/orgs/nyccodecoffee/projects/2/views/3 
-- Issue classification(PM) - tagging the issues with the correct tags.
+- Issue classification - tagging the issues with the correct tags and identifying newbie-friendly ones.
+- Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
 - Open Source Contributor - Resolve issue tickets with code.
 - Operations - Establish process around open source and NYC&C.
 
@@ -126,8 +127,7 @@ Open Source issues are on the project board at https://github.com/orgs/nyccodeco
 - Inquire with Steve#2340 on discord or an organizer in-person if interested!
 
 ### Donate
-We are 100% 
--run and look to use all funds toward operating this community and possibly incentivizing future ones. 
+We striving to create a resilient community run by it's own members and look to use all funds toward operating this community and possibly incentivizing future ones in other major cities!  
   
 Donate @ https://ko-fi.com/nyccodecoffee
 
