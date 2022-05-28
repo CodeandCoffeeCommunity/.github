@@ -4,7 +4,8 @@
 - We are tech workers that work directly with Software Engineers with the mindset of helping each other grow and mae new friends. 
 - We strive to be genuine and honest in our interactions with each other. 
 - We strive to be friendly to new developers and are willing to lend a hand/ear when available. 
-
+  
+**Code of Conduct:** https://www.newyorkcodeandcoffee.com/coc.html for the safety of all attendees and community members at events everyone must oblige by this code. Especially organizers, volunteers, and advocates.
   
 ## **Table of Contents**
 1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
@@ -13,10 +14,8 @@
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Groups](https://github.com/nyccodecoffee#groups)
-      1.[New people](https://github.com/nyccodecoffee#outsiders)
-      2.[Outsiders](https://github.com/nyccodecoffee#outsiders)
 4. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
-   1. [General](https://github.com/nyccodecoffee#volunteer-information)
+   1. [General Tasks (Volunteer)](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
    3. [Donate](https://github.com/nyccodecoffee#donate)
 5. [Active Open Projects - Coming soon!]()
@@ -51,7 +50,7 @@ If this sounds like you, you belong here:
 
 Poeple like designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) folks to attend our events. We welcome unique perspectives into our community.
 
-**You are ENCOURAGED to share any jobs your company may be offering**. For the safety of our community, we ask that 3rd-party recruiters with an interest in sourcing on behalf of another company reach out to an organizer beforehand so C&C, harassment is not tolerated and we do not give warnings.
+**You are ENCOURAGED to share any jobs you(or your company) may be offering**. For the safety of community members, we ask that 3rd-party recruiters interested in sourcing on behalf of another company reach out to an organizer beforehand, harassment is not tolerated at our events.
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Rituals
@@ -98,27 +97,38 @@ We do not want these people for the safety of the group and the established valu
   
 ## How to Support
 There's many ways you can support, please do what makes you comfortable. That being said, we want you to grow individually and gain the skills you need to work in a professional tech-related role. We want you to show off these titles. For more context, see an organizer.
-### Volunteer 
-We're open to volunteers! Here's a list of duties we need help with:
+
+### Ongoing tasks (Volunteer)
+We're open to volunteers at any level of comittment, from one issue/event to many! Here's a list of duties we always need help with.
+
+**Open Source Issues**
+Open Source issues
+- Product Manager - 
 - Issue classification(PM) - tagging the issues with the correct tags.
+- Open Source Contributor - Resolve issue ticket.
+- Operations analysis - Submit detailed docs of how our systems and processes around community driven development can be improved. 
+
+**In-person Events**
 - Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
 - Intro Circle Analyst - Run the intro circle and read off a pre-determined script and analyze for feedback
 - Lost Puppy finder - Find people looking lost the room and begin a conversation to ease feelings of belongingness. Bonus points* for being able to connect people together.
 - Developer Advocate - See below. We want everyone to do this.
 - Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
+- Feedback - Issues with the venue. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
 
-*cheesiest swag you can imagine. 
 
 ### Developer Advocacy Program
-- We're always looking for volunteer Developer Advocates. You report directly to the lead organizer to achieve determined metrics around community growth, product strategy, and partnership/sponsorships through your own autonomy. 
+- We're always looking for Developer Advocates. You report directly to the lead organizer to help achieve determined metrics around community growth, product strategy, and partnership/sponsorships through your own autonomy. 
 
 ### Organizing
 - Higher committment role. The core group of folks that run these events. These are people that strive to build trust with attendees and understands the impact of being a public figure within the community. 
-- Inquire with Steve#2340 on discord or in-person if interested!
+- Inquire with Steve#2340 on discord or an organizer in-person if interested!
 
 ### Donate
-We are 100% volunteer-run and look to use all funds toward operating this community and possibly incentivizing future ones. 
+We are 100% 
+-run and look to use all funds toward operating this community and possibly incentivizing future ones. 
   
 Donate @ https://ko-fi.com/nyccodecoffee
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
+
