@@ -111,8 +111,6 @@ Here's some ways you can support.
 - Open Source Contributor - Resolve issue tickets with code.
 - Operations - Establish process around open source and NYC&C.
 - Issue classificationer - tagging the issues with the correct tags and identifying newbie-friendly ones.
-- PM - Run the above
-
 
 **In-person Events**
 - Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
