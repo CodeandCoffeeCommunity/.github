@@ -16,8 +16,8 @@
    3. [Groups](https://github.com/nyccodecoffee#groups)
    4. [How to Gracefully Exit](https://github.com/nyccodecoffee#how-to-gracefully-exit)
 4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
-5. [How to Support](https://github.com/nyccodecoffee#how-to-volunteer--advocate)
-   1. [General Tasks (Volunteer)](https://github.com/nyccodecoffee#volunteer-information)
+5. [How to Contribute(Volunteer)](https://github.com/nyccodecoffee#how-to-contribute)
+   1. [Primary Tasks](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
    3. [Donate](https://github.com/nyccodecoffee#donate)
 6. [Feedback](https://github.com/nyccodecoffee#feedback)
@@ -102,27 +102,29 @@ We do not want these people for the safety of the group and the established valu
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
   
-## How to Support
-Here's some ways you can support.
+## How to Contribute
+Here's some ways you can support to the mission of NY Code & Coffee. "To make friends and grow together"
 
-### Ongoing tasks (Volunteer)
+### Primary Tasks
  We're open to volunteers! Here's a list of tasks. Ask an organizer if you have any questions or need more context.
 
 **Open Source Issues**
 - Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
 - Open Source Contributor - Resolve issue tickets with code.
-- Operations - Establish process around open source and NYC&C.
-- Issue classificationer - tagging the issues with the correct tags and identifying newbie-friendly ones.
+- Open Source Operations Operations - Establish process around open source and NYC&C.
+- Project Manager/Maintainer - tagging the issues with the correct tags and identifying newbie-friendly ones.
+- Quality Assurance - Ensure things work as expected and bugs are filed in issues.
 
 **In-person Events**
 - Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
-- Intro Circle Speaker - Run the intro circle and read off a pre-determined script and analyze for feedback
-- Lost Puppy finder - Find people looking lost and begin a conversation to ease anxieties.
-- Developer Advocate - See below. We want everyone to do this.
 - Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
-- Quality Assurance - Ensure things work as expected and bugs are filed in issues.
+
 - Feedback - Issues and/or improvements. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
 
+Unique roles
+- Intro Circle Speaker - Run the intro circle and read off a pre-determined script and analyze for feedback
+- Connectors - Find people looking lost and begin a conversation to ease anxieties.
+- Developer Advocate - See below. We want everyone to do this.
 
 ### Developer Advocacy Program
 - We're always looking for Developer Advocates. You informally report to the lead organizer to help achieve determined metrics around community growth, product vision/strategy, and partnership/sponsorships via your own autonomy. Ideally for folks with marketing experience and/or professional software engineers that really like C&C and can bring other software folks!
