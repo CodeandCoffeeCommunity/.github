@@ -10,16 +10,16 @@
 ## **Table of Contents**
 1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
 2. [Stories](https://github.com/nyccodecoffee#stories)
-3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
+3. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
+   1. [Primary Tasks](https://github.com/nyccodecoffee#volunteer-information)
+   2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
+   3. [Donate](https://github.com/nyccodecoffee#donate)
+4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
+5. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
    3. [Groups](https://github.com/nyccodecoffee#groups)
    4. [How to Gracefully Exit](https://github.com/nyccodecoffee#how-to-gracefully-exit)
-4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
-5. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
-   1. [Primary Tasks](https://github.com/nyccodecoffee#volunteer-information)
-   2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
-   3. [Donate](https://github.com/nyccodecoffee#donate)
 6. [Feedback](https://github.com/nyccodecoffee#feedback)
 ## Become a Verified Member >>NEW Visitors Start Here<<
 1. Attend a C&C event & participate in the intro circle.
@@ -39,6 +39,45 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 - [Code and Coffee provides a space for personal projects on the weekend](https://technical.ly/software-development/code-coffee-dc/) (technical.ly)
    
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
+## How to Contribute
+Here's some ways you can support to the mission of NY Code & Coffee. "To make friends and grow together"
+
+### Primary Tasks
+ We're open to volunteers! Here's a list of tasks. Ask an organizer if you have any questions or need more context.
+
+**Open Source Issues**
+- Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
+- Open Source Contributor - Resolve issue tickets with code.
+- Open Source Operations Operations - Establish process around open source and NYC&C.
+- Project Manager/Maintainer - tagging the issues with the correct tags and identifying newbie-friendly ones.
+- Quality Assurance - Ensure things work as expected and bugs are filed in issues.
+
+**In-person Events**
+- Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
+- Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
+
+- Feedback - Issues and/or improvements. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
+
+Unique roles
+- Intro Circle Speaker - Run the intro circle and read off a pre-determined script and analyze for feedback
+- Connectors - Find people looking lost and begin a conversation to ease anxieties.
+- Developer Advocate - See below. We want everyone to do this.
+
+### Developer Advocacy Program
+- We're always looking for Developer Advocates. You informally report to the lead organizer to help achieve determined metrics around community growth, product vision/strategy, and partnership/sponsorships via your own autonomy. Ideally for folks with marketing experience and/or professional software engineers that really like C&C and can bring other software folks!
+
+### Organizing
+- Higher committment role. The core group of folks that run these events. These are people that strive to build trust with attendees and understands the impact of being a public figure within the community. 
+- Inquire with Steve#2340 on discord or an organizer in-person if interested!
+
+### Donate
+We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. Every event requires a venue sponsor, wifi, people, and coffee. We actively look for opportunities with sponsors and potential partnerships to create better events that serve the interests of our community.
+
+- Donate @ https://ko-fi.com/nyccodecoffee
+
+[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
+
+
 # Our Community Principles 
 > Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
 
@@ -102,44 +141,6 @@ We do not want these people for the safety of the group and the established valu
   
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
   
-## How to Contribute
-Here's some ways you can support to the mission of NY Code & Coffee. "To make friends and grow together"
-
-### Primary Tasks
- We're open to volunteers! Here's a list of tasks. Ask an organizer if you have any questions or need more context.
-
-**Open Source Issues**
-- Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
-- Open Source Contributor - Resolve issue tickets with code.
-- Open Source Operations Operations - Establish process around open source and NYC&C.
-- Project Manager/Maintainer - tagging the issues with the correct tags and identifying newbie-friendly ones.
-- Quality Assurance - Ensure things work as expected and bugs are filed in issues.
-
-**In-person Events**
-- Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
-- Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
-
-- Feedback - Issues and/or improvements. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
-
-Unique roles
-- Intro Circle Speaker - Run the intro circle and read off a pre-determined script and analyze for feedback
-- Connectors - Find people looking lost and begin a conversation to ease anxieties.
-- Developer Advocate - See below. We want everyone to do this.
-
-### Developer Advocacy Program
-- We're always looking for Developer Advocates. You informally report to the lead organizer to help achieve determined metrics around community growth, product vision/strategy, and partnership/sponsorships via your own autonomy. Ideally for folks with marketing experience and/or professional software engineers that really like C&C and can bring other software folks!
-
-### Organizing
-- Higher committment role. The core group of folks that run these events. These are people that strive to build trust with attendees and understands the impact of being a public figure within the community. 
-- Inquire with Steve#2340 on discord or an organizer in-person if interested!
-
-### Donate
-We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. Every event requires a venue sponsor, wifi, people, and coffee. We actively look for opportunities with sponsors and potential partnerships to create better events that serve the interests of our community.
-
-- Donate @ https://ko-fi.com/nyccodecoffee
-
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
-
 
 ### Active Open Source Projects
 We currently have one project. We're open to new projects you think may help the community or just seem fun.  
