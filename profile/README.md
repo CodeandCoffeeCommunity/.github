@@ -16,7 +16,7 @@
    3. [Groups](https://github.com/nyccodecoffee#groups)
    4. [How to Gracefully Exit](https://github.com/nyccodecoffee#how-to-gracefully-exit)
 4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
-5. [How to Contribute(Volunteer)](https://github.com/nyccodecoffee#how-to-contribute)
+5. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
    1. [Primary Tasks](https://github.com/nyccodecoffee#volunteer-information)
    2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
    3. [Donate](https://github.com/nyccodecoffee#donate)
