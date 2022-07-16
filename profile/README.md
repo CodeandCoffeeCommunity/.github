@@ -77,6 +77,12 @@ We strive to create a resilient community run by it's own members and look to us
 
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
+### Active Open Source Projects
+We currently have one project. We're open to new projects you think may help the community or just seem fun.  
+  
+- [NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
+
+[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 # Our Community Principles 
 > Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
@@ -139,14 +145,6 @@ We do not want these people for the safety of the group and the established valu
 - Banned
 
   
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
-  
-
-### Active Open Source Projects
-We currently have one project. We're open to new projects you think may help the community or just seem fun.  
-  
-- [NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
-
 [^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 ### Feedback 
