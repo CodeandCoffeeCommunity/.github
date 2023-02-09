@@ -8,7 +8,6 @@
 - We strive to be friendly and are willing to lend themselves as a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) when available. 
   
 ## **Table of Contents**
-1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
 2. [Stories](https://github.com/nyccodecoffee#stories)
 3. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
 4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
