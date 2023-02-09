@@ -8,13 +8,11 @@
 - We strive to be friendly and are willing to lend themselves as a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) when available. 
   
 ## **Table of Contents**
-2. [Stories](https://github.com/nyccodecoffee#stories)
-3. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
-4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
-5. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
+1. [Stories](https://github.com/nyccodecoffee#stories)
+2. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
+3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
-6. [Feedback](https://github.com/nyccodecoffee#feedback)
 
 **Code of Conduct**: As summarized in step 4 of Discord, every member is also expected to oblige by the [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
   
@@ -29,18 +27,14 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 Here's some ways you can support to the mission of NY Code & Coffee. "To make friends and grow together"
 
 ### Primary Tasks
- We're open to volunteers! Here's a list of tasks. Ask an organizer if you have any questions or need more context.
+- First to arrive
+- Intro Circle Leader
+- Greeter
+- Coffee
+- Event Experience Support
 
-**Open Source Issues**
-- Open Source Maintainer - Review code, test it to ensure functionality, and merge it to production.
-- Open Source Contributor - Resolve issue tickets with code.
-- Open Source Operations Operations - Establish process around open source and NYC&C.
-- Project Manager/Maintainer - tagging the issues with the correct tags and identifying newbie-friendly ones.
-- Quality Assurance - Ensure things work as expected and bugs are filed in issues.
-
-**In-person Events**
-- Mentor - Help new devs with vague coding topics. Example: be their [rubber duck ]([url](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) for FreeCodeCamp.com
-- Content - We need lots of it. Images, tweets, photos, videos, written(add it to our stories!), etc.
+**Event Experience team*
+- We run a group of dedicated event operations staff to help with live events. In NYC, led by Jonathan Schumann
 
 - Feedback - Issues and/or improvements. Incidents of people being inflammatory or harassing. Ensure these are bubbled up to organizers.
 
@@ -59,8 +53,6 @@ Unique roles
 
 
 # Our Community Principles 
-> Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
-
 > A community is a group of individuals who share a mutual concern for each other’s welfare. When we form a community that grows friendships, we create what we seek, friends who care about the welfare of one another.
 > [The Art of Community: Seven Principles for Belonging](https://www.amazon.com/dp/B01E4KC0U4/)
 
