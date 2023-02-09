@@ -1,6 +1,6 @@
 # Welcome to the Code & Coffee Community 👋
 
-![uGX6R6y](https://user-images.githubusercontent.com/10738004/170815148-911c63e6-e6ab-4614-8f41-3b19230f6a60.jpeg)
+
 
 **Our Shared Values**:
 - We strive to help each other grow and make new friends. 
@@ -11,26 +11,14 @@
 1. [Become a Member >> Start Here <<](https://github.com/nyccodecoffee#become-a-verified-member-new-visitors-do-this)
 2. [Stories](https://github.com/nyccodecoffee#stories)
 3. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
-   1. [Primary Tasks](https://github.com/nyccodecoffee#volunteer-information)
-   2. [Developer Advocacy](https://github.com/nyccodecoffee#developer-advocacy-program)
-   3. [Donate](https://github.com/nyccodecoffee#donate)
 4. [Active Open Source Projects](https://github.com/nyccodecoffee#active-open-source-projects)
 5. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
    1. [Rituals](https://github.com/nyccodecoffee#rituals)
    2. [When and Where We Gather](https://github.com/nyccodecoffee#when--where-we-gather)
-   3. [Groups](https://github.com/nyccodecoffee#groups)
-   4. [How to Gracefully Exit](https://github.com/nyccodecoffee#how-to-gracefully-exit)
 6. [Feedback](https://github.com/nyccodecoffee#feedback)
-## Become a Verified Member >>NEW Visitors Start Here<<
-1. Attend a C&C event & participate in the intro circle.
-2. Grab a free laptop sticker and Resource Card.
-3. Get a Discord Invite by going to www.codeandcoffee.community on your web browser. Follow the prompts in the #welcome & #rules channel.
-4. (optional) After agreeing to the prompts, **introduce yourself in #general-random**. We're friendly folks and look forward to getting to know you :)
-5. Congrats you're a Verified Member! Contribute, bring your own projects, network, contribute, and/or volunteer. It's up to you!  
 
 **Code of Conduct**: As summarized in step 4 of Discord, every member is also expected to oblige by the [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
   
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Stories
 _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below for some inspiration.
 - The Origin Story of New York Code & Coffee (*COMING SOON*)
@@ -38,7 +26,6 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 - [Why I Code & Coffee](https://towardsdatascience.com/why-i-code-coffee-e2237ec709bc) (Medium)
 - [Code and Coffee provides a space for personal projects on the weekend](https://technical.ly/software-development/code-coffee-dc/) (technical.ly)
    
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## How to Contribute
 Here's some ways you can support to the mission of NY Code & Coffee. "To make friends and grow together"
 
@@ -70,19 +57,7 @@ Unique roles
 - Higher committment role. The core group of folks that run these events. These are people that strive to build trust with attendees and understands the impact of being a public figure within the community. 
 - Inquire with Steve#2340 on discord or an organizer in-person if interested!
 
-### Donate
-We strive to create a resilient community run by it's own members and look to use all funds toward operating this community. Every event requires a venue sponsor, wifi, people, and coffee. We actively look for opportunities with sponsors and potential partnerships to create better events that serve the interests of our community.
 
-- Donate @ https://ko-fi.com/nyccodecoffee
-
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
-
-### Active Open Source Projects
-We currently have one project. We're open to new projects you think may help the community or just seem fun.  
-  
-- [NYC C&C - Meta board](https://github.com/orgs/nyccodecoffee/projects/2)
-
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 
 # Our Community Principles 
 > Communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world. 
@@ -92,62 +67,18 @@ We currently have one project. We're open to new projects you think may help the
 
 Our goal for this section is to communicate who we are as a community and the boundaries of those we accept in our community. We do this to establish a level of community safety and belonging across all developers, new and old. 
   
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Identity & Boundaries
 If this sounds like you, you belong here:
 >I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share a similar interest to me and to grow alongside them.
 
 Poeple like designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) are folks we love to have within our community. We welcome unique perspectives into our community.
 
-**You are ENCOURAGED to share any jobs you(or your company) may be offering**. For the safety of community members, we ask that 3rd-party recruiters interested in sourcing on behalf of another company reach out to an organizer beforehand, harassment is not tolerated at our events.
+**You are ENCOURAGED to share any jobs you(or your company) may be offering**. For the safety of community members, we ask that 3rd-party recruiters interested in sourcing on behalf of another company reach out to an organizer beforehand. We prefer not to have unwarranted solicitation.
   
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
 ## Rituals
 - At every event, we have an intro circle at exactly 2:30pm. 
 
 ## When / Where we Gather
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
-- **Online**: 24/7, we communicate over Discord or the prefferred contact method mutually accepted by both individual parties.   
+- **Online**: 24/7, we communicate over Discord or the preferred contact method mutually accepted by both individual parties.   
 
-## How to Gracefully Exit
-Being part of a community sometimes requires comittment through contributor, advocate, organizer, and volunteer roles. Sometimes you just need a break or you've achieved all your individual goals. That's fine and we fully encourage your growth. To leave, indicate your name in the [feedback form](https://forms.gle/zmVKy22uB1iooV6X7) with a short desc of what you're giving up or a "IM OUT". You will always be re-invited to join anytime at a later date.
-  
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
-
-## Groups
-As a community, we believe in recognition for building and sustaining this grassroots tech community. In a group with almost 2k members in under a year, it is crucial to recognize elders with a title that signifies their contribution to the community. These titles are reflected on Discord.
-
-### 1. Organizers
-Access to private channels and input into key decisions decided by the lead organizer. After a certain amount of time of absence(TBD) we will remove organizers from their Discord and meetup titles. This is to ensure safety and clear communication. Former Organizers are highly encouraged to return.
-- Lead Organizer
-- Organizer
-
-### 2. Volunteers (#volunteers-group)
-You've indicated interest in volunteering or have recognized contributions to an organizer and have received sufficient written correspondence.
-
-This is an empowered group of community members that resonate with the Code & Coffee mission. They contribute by either bringing people in from other places(Advocate), Volunteering on tasks, or contributing(PRs, #code-help). Much less intensive than co-organizing while having similar growth opportunities.
-- Advocate
-- Contributor
-- Volunteer
-
-### 3. Verified Members(#general-random, Gen. channels)
-The majority of people will be here! We'd love for you to enjoy yourself and your presence is enough contribution :)
-- Distinguished Community Member
-- Verified Community Member
-
-### 4. New folks
-You likely saw this from Meetup.com or referred by an advocate. Welcome!
-- Visitor (Start here)
-
-### 5. Outsiders
-We do not want these people for the safety of the group and the established values of the community. 
-- Outsiders
-- Banned
-
-  
-[^ Back to Top](https://github.com/nyccodecoffee#table-of-contents)
-
-### Feedback 
-- General Feedback form: https://forms.gle/zmVKy22uB1iooV6X7 please report any urgent issues to organizers over Discord and Meetup.
-
-_This entire doc was created based on your feedback. Please consider logging it with this form_ :)
