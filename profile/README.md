@@ -67,7 +67,7 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 **You are ENCOURAGED to share any jobs you(or your company) may be offering**. For the safety of community members, we ask that 3rd-party recruiters interested in sourcing on behalf of another company reach out to an organizer beforehand. We prefer not to have unwarranted solicitation.
   
 ## Rituals
-- At every event, we have an intro circle at exactly 2:30pm. 
+- At every event, we have an intro circle at either 15mins or 30mins after doors open.
 
 ## When / Where we Gather
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
