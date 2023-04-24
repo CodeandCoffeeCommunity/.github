@@ -17,7 +17,9 @@ Chat with our organizers by:
   
 ## Projects
 [Chicago Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/chicago_code_and_coffee_website)  
-[NYC Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/nyccodecoffee-website)
+[NYC Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/nyccodecoffee-website)  
+[Discord Barista Bot](https://github.com/CodeandCoffeeCommunity/Barista-bot)  
+[CodeAndCoffee.org Custom Web Components](https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service) 
    
 ## How to Contribute
 (Page incoming)
@@ -39,7 +41,7 @@ Many people come with questions, ideas or strategies to discuss — and many oth
 If this sounds like you, you belong here:
 >I am an aspiring developer, a professional developer, a hobbyist with a side project, a self-taught hobbyist in coding, trying to learn development, and/or someone that types code into a text editor. I am looking to meet new people that share a similar interest to me and to grow alongside them.
 
-Poeple like designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) are folks we love to have within our community. We welcome unique perspectives into our community.
+People such as designers, PMs, and dev-adjacent technical current/past individual contributors(DevRel, solutions/sales engineers, EMs, DevRels) are folks we'd love to have within our community. We welcome unique perspectives into our community.
 
 **You are ENCOURAGED to share any jobs you(or your company) may be offering**. For the safety of community members, we ask that 3rd-party recruiters interested in sourcing on behalf of another company reach out to an organizer beforehand. We prefer not to have unwarranted solicitation.
   
