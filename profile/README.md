@@ -18,6 +18,7 @@ Chat with our organizers by:
 ## Open Source Projects
 - [Chicago Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/chicago_code_and_coffee_website)  
 - [NYC Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/nyccodecoffee-website)  
+- [Baltimore Code & Coffee Website](https://github.com/BmoreCodeCoffee/bmorecodecoffee.github.io)
 - [Discord Barista Bot](https://github.com/CodeandCoffeeCommunity/Barista-bot)  
 - [CodeAndCoffee.org Custom Web Components](https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service) 
    
