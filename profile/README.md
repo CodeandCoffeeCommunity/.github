@@ -16,7 +16,7 @@ Chat with our organizers by:
 2) Refer to this [Coffee Chat Directory](https://docs.google.com/document/d/1McCdzGtPKMlbQOewm6bR-Jb21QkmDb6Im7NvtmVzsuc/edit?usp=sharing) then message them with their Discord handle 
   
 ## Projects
-[Chicago Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/chicago_code_and_coffee_website)
+[Chicago Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/chicago_code_and_coffee_website)  
 [NYC Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/nyccodecoffee-website)
    
 ## How to Contribute
