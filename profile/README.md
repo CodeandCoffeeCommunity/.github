@@ -38,6 +38,6 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 - At every event, we have an intro circle at either 15mins or 30mins after doors open.
 
 ## When / Where we Gather
-- **In-person**: Every 2 weeks we gather at a venue officially posted on the Meetup group page. We treat those venues and sponsors with respect and grace.
+- **In-person**: Every 2 weeks we gather at a venue officially posted on the [Meetup group page](https://codeandcoffee.org/#footer) for your local city. 
 - **Online**: 24/7, we communicate over primarily over Discord.   
 
