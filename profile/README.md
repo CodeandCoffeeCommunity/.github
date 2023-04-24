@@ -26,6 +26,7 @@ _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below 
 - [Meetup Meets: New York Code & Coffee](https://www.youtube.com/watch?v=SOiq4acY_SM) (Youtube)
 
 ### Written
+- [How DC’s meetup groups are making an IRL comeback in 2023](https://technical.ly/professional-development/dc-meetups-irl-comeback/)
 - [Why I Code & Coffee](https://towardsdatascience.com/why-i-code-coffee-e2237ec709bc) (Medium)
 - [Code and Coffee provides a space for personal projects on the weekend](https://technical.ly/software-development/code-coffee-dc/) (technical.ly)
    
