@@ -23,6 +23,9 @@ Chat with our organizers by:
 - [CodeAndCoffee.org Custom Web Components](https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service) 
    
 ### How to Contribute
+<details> 
+<summary>Click Here</summary>
+   
 #### Prerequisites
 1. A GitHub account. If you don't have one, sign up at [github.com](https://github.com/).
 2. Git installed on your computer. You can download and install it from the [official website](https://git-scm.com/).
@@ -83,6 +86,8 @@ Replace `[new_branch_name]` with the name of the branch you created earlier.
 1. Once your pull request is approved, the repository maintainers will merge your changes into the main branch.
 2. Congratulations! You've successfully contributed to a GitHub repository.
 
+  </details> 
+    
 # What is Code & Coffee?  
 🧑‍🤝‍🧑🧑‍🤝‍🧑 **We’re a Community**. Our attendees feel like they’re a part of the group. This group is not run by a company -- it is ran by a group of individual community members.  
 📈🔍 **Of developers**. Or for people who work with them or want to become one.  
