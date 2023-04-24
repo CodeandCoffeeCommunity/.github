@@ -23,10 +23,15 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 - **In-person**: Every 2 weeks we gather at a venue officially posted on the [Meetup group page](https://codeandcoffee.org/#footer) for your local city. 
 - **Online**: 24/7, we communicate over primarily over Discord.  
 
-## Speakers Program
+## Programs
+### Speakers Program
 [Speaking Repo](https://github.com/CodeandCoffeeCommunity/speaking) 👈 _Submit a talk in this Repo_   
 At Code & Coffee, we're here to make friends and grow. To aid in growth, we have a speakers program where we community members interested in giving a talk can give a tech talk on whatever they may find interesting!
-
+  
+### Coffee Chats
+Need someone to chat with over a call on software dev? Chat with our organizers by:
+1) Joining Discord at [CodeAndCoffee.chat](https:www/codeandcoffee.chat)
+2) Refer to this [Coffee Chat Directory](https://docs.google.com/document/d/1McCdzGtPKMlbQOewm6bR-Jb21QkmDb6Im7NvtmVzsuc/edit?usp=sharing) then message them with their Discord handle 
 
 ### Content about Code & Coffee
 _Feel free to open up a PR and we'll add it here!_ Look below for some inspiration.
