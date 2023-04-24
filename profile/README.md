@@ -1,14 +1,8 @@
 # Welcome to the Code & Coffee Community 👋
 A software developer meetup community to make friends and grow. 
 
-## **Table of Contents**
-1. [Stories](https://github.com/nyccodecoffee#stories)
-2. [How to Contribute](https://github.com/nyccodecoffee#how-to-contribute)
-3. [Our Community Principles](https://github.com/nyccodecoffee#our-community-principles)
-   1. [Rituals](https://github.com/nyccodecoffee#rituals)
-   2. [Locations](https://github.com/nyccodecoffee#locations)
 
-**Code of Conduct**: As summarized in step 4 of Discord, every member is also expected to oblige by the [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
+**Code of Conduct**: Every member is also expected to oblige by the [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
   
 ## Content about Code & Coffee
 _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below for some inspiration.
