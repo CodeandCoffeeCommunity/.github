@@ -24,7 +24,7 @@ Poeple like designers, PMs, and dev-adjacent technical current/past individual c
 - **Online**: 24/7, we communicate over primarily over Discord.  
 
 ## Speakers Program
-[Speaker's Program Repo](https://github.com/CodeandCoffeeCommunity/speaking)
+[Speaking Repo](https://github.com/CodeandCoffeeCommunity/speaking) 👈 _Submit a talk in this Repo_   
 At Code & Coffee, we're here to make friends and grow. To aid in growth, we have a speakers program where we community members interested in giving a talk can give a tech talk on whatever they may find interesting!
 
 
