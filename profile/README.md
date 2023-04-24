@@ -6,8 +6,8 @@ A software developer meetup community to make friends and grow.
 
 ## Programs
 ### Speaking Program
+At Code & Coffee, we're here to make friends and grow. To aid in growth, we have a speakers program where we community members interested in giving a talk can give a tech talk on whatever they may find interesting!  
 [Speaking Repo](https://github.com/CodeandCoffeeCommunity/speaking) 👈 _Submit a talk in the Issues section of this Repo_   
-At Code & Coffee, we're here to make friends and grow. To aid in growth, we have a speakers program where we community members interested in giving a talk can give a tech talk on whatever they may find interesting!
   
 ### Coffee Chats  
 Looking to casually chat over a call with a software dev?   
@@ -15,13 +15,13 @@ Chat with our organizers by:
 1) Joining Discord at [CodeAndCoffee.chat](https:www/codeandcoffee.chat)
 2) Refer to this [Coffee Chat Directory](https://docs.google.com/document/d/1McCdzGtPKMlbQOewm6bR-Jb21QkmDb6Im7NvtmVzsuc/edit?usp=sharing) then message them with their Discord handle 
   
-## Projects
+## Open Source Projects
 - [Chicago Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/chicago_code_and_coffee_website)  
 - [NYC Code & Coffee Website](https://github.com/CodeandCoffeeCommunity/nyccodecoffee-website)  
 - [Discord Barista Bot](https://github.com/CodeandCoffeeCommunity/Barista-bot)  
 - [CodeAndCoffee.org Custom Web Components](https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service) 
    
-## How to Contribute
+### How to Contribute
 (Page incoming)
 
 # What is Code & Coffee?  
