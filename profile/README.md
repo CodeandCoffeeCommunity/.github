@@ -1,8 +1,8 @@
 # Welcome to the Code & Coffee Community 👋
 A software developer meetup community to make friends and grow. 
 
-
-**Code of Conduct**: Every member is also expected to oblige by the [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) for the safety of all attendees and community members. Especially organizers, volunteers, and advocates.
+**Official Website**: [www.codeandcoffee.org](https://www.codeandcoffee.org/)  
+**Code of Conduct**: The [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) every attendee, member, or organizer is expected to oblige to.
 
    
 ## How to Contribute
