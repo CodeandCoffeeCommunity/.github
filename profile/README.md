@@ -18,11 +18,14 @@
   
 ## Content about Code & Coffee
 _Wanna create one? Feel free to open up a PR and we'll add it here!_ Look below for some inspiration.
+### Video
 - [Coffee Chats: Coffee Chats: Creating Space with Steve Chen (Founder of Code & Coffee)](https://www.youtube.com/watch?v=Ln89-bTeh4E) (Youtube)
 - [Coffee Chats: Julia](https://www.youtube.com/watch?v=E57lwWAsimw) (Youtube)
 - [Coffee Chats: Mo](https://www.youtube.com/watch?v=Bqw3_oEB3kM) (Youtube)
 - [NYC Code and Coffee meetup! | Vlog](https://www.youtube.com/watch?v=LgfryYetu_k) (Youtube)
 - [Meetup Meets: New York Code & Coffee](https://www.youtube.com/watch?v=SOiq4acY_SM) (Youtube)
+
+### Written
 - [Why I Code & Coffee](https://towardsdatascience.com/why-i-code-coffee-e2237ec709bc) (Medium)
 - [Code and Coffee provides a space for personal projects on the weekend](https://technical.ly/software-development/code-coffee-dc/) (technical.ly)
    
