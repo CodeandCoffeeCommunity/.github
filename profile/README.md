@@ -1,5 +1,5 @@
 # Welcome to the Code & Coffee Community 👋
-A software developer meetup community to make friends and grow. 
+A meetup community for developers to grow and make friends.
 
 **Official Website**: [www.codeandcoffee.org](https://www.codeandcoffee.org/)  
 **Code of Conduct**: The [Code of Conduct](https://www.newyorkcodeandcoffee.com/coc.html) every attendee, member, or organizer is expected to oblige to.
