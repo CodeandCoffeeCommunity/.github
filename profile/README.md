@@ -34,7 +34,7 @@ Need someone to chat with over a call on software dev? Chat with our organizers 
 2) Refer to this [Coffee Chat Directory](https://docs.google.com/document/d/1McCdzGtPKMlbQOewm6bR-Jb21QkmDb6Im7NvtmVzsuc/edit?usp=sharing) then message them with their Discord handle 
 
 ### Content about Code & Coffee
-Have you created meaningful video or Written content? Feel free to open up a PR to our [.github repo](https://github.com/CodeandCoffeeCommunity/.github/tree/main/profile)
+Have you created meaningful video or Written content? Feel free to open up a PR in the [.github](https://github.com/CodeandCoffeeCommunity/.github/tree/main/profile) repo
 ### Video
 - [Coffee Chats: Coffee Chats: Creating Space with Steve Chen (Founder of Code & Coffee)](https://www.youtube.com/watch?v=Ln89-bTeh4E) (Youtube)
 - [Coffee Chats: Julia](https://www.youtube.com/watch?v=E57lwWAsimw) (Youtube)
