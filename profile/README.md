@@ -21,6 +21,7 @@ Chat with our organizers by:
 - [Baltimore Code & Coffee Website](https://github.com/BmoreCodeCoffee/bmorecodecoffee.github.io)
 - [Discord Barista Bot](https://github.com/CodeandCoffeeCommunity/Barista-bot)  
 - [CodeAndCoffee.org Custom Web Components](https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service) 
+  - [Settings Repo](https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service-Settings)
    
 ### How to Contribute
 <details> 
